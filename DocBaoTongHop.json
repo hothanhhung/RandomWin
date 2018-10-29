@@ -134,7 +134,7 @@
     },
     {
       "Name": "baomoi.com",
-      "CSS": ".adsbygoogle, ins, iframe, [class*='fyi'], .footer__anchor-event {display:none !important;}"
+      "CSS": ".adsbygoogle, ins, #BaoMoi_Mobile_FullPage, [id*='BaoMoi_Mobile_Middle'], [class*='fyi'], .footer__anchor-event {display:none !important;}"
     },
     {
       "Name": "viettimes.vn",
