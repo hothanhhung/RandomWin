@@ -38,7 +38,7 @@
     },
     {
       "Name": "Zing.VN",
-      "CSS": ".adsbygoogle, [id*='adv'] {display: none !important;}"
+      "CSS": ".adsbygoogle, [id*='adtima-zone'], [id*='body-banner'], [id*='adv'] {display: none !important;}"
     },
     {
       "Name": "HaiSao.VN",
